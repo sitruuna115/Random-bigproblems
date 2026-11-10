@@ -28,7 +28,7 @@ int main()
         x_1 = (-b + sqrt(D)) / (2.0 * a);
         x_2 = (-b - sqrt(D)) / (2.0 * a);
 
-        printf("корни:\n);
+        printf("корни:\n");
         printf("x1 = %lg\n");
         printf("x2 = % lg", x_1, x_2);
     }
